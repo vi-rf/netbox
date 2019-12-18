@@ -229,4 +229,5 @@ WEBHOOK_MODELS = [
     'tenancy.tenant',
     'virtualization.cluster',
     'virtualization.virtualmachine',
+    'extras.configcontext',
 ]
